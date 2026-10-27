@@ -30,7 +30,7 @@ The project was divided into four core phases:
 * **Modeling:** Implemented a **Linear Regression** model using Scikit-Learn to predict `Sales`. 
 
 ## Results and Outputs
-The model successfully processed the engineered features to output revenue predictions. By comparing the predicted sales against the actual sales in the test set, an R-squared score was generated that evaluates the variance captured by the regional and categorical predictors. *
+The model successfully processed the engineered features to output revenue predictions. By comparing the predicted sales against the actual sales in the test set, an R-squared score was generated that evaluates the variance captured by the regional and categorical predictors. 
 
 ## Technologies Used
 * Python 3
